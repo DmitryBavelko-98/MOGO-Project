@@ -1,2 +1,2 @@
 # MOGO-Project
-MOGO-Project created with HTML, CSS, JavaScript.
+MOGO-Project created with HTML, CSS and JavaScript.
